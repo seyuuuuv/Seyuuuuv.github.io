@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "seyu"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/seyuv.jpg"
   bio              : "seyu blog"
   location         : "South Korea"
   email            :
@@ -121,7 +121,10 @@ author:
       url: "https://github.com/seyuuuuv"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://seyuuuuv.github.io/"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://seyuuuuv.github.io/"
 
 # Site Footer
 footer:
@@ -131,7 +134,10 @@ footer:
       url: "https://github.com/seyuuuuv"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://seyuuuuv.github.io/"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://seyuuuuv.github.io/" 
 
 
 # Reading Files
