@@ -2,10 +2,10 @@
 main:
   - title: "Category"
     url: /categories/
-  - title: "Tag"
-    url: /tags/
-  - title: "By Year"
-    url: /year-archive/
+#  - title: "Tag"
+#    url: /tags/
+#  - title: "By Year"
+#    url: /year-archive/
   - title: "Search"
     url: /search/
 
@@ -36,6 +36,6 @@ docs:
 
 counts:
   - title: "카테고리"
-    use: true
+    use: false
   - title: "태그"
     use: false
